@@ -10,3 +10,5 @@
 
 * [Templates](https://mdbootstrap.com/templates/)
 
+## Result
+You can see the page [here](https://mezgoodle.github.io/Admin-panel-on-Bootstrap/)
